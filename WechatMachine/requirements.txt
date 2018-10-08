@@ -1,0 +1,7 @@
+itchat
+
+xlrd
+
+xlsxwriter
+
+xlutils
